@@ -549,7 +549,8 @@ body > section > .holder > .title h2:after {
 	transition: all 2s;
 	width: 310px;
 	height: 300px;
-	background: url("http://i.imgur.com/ifckBKU.png");
+	/* background: url("http://i.imgur.com/ifckBKU.png"); */
+	background: url(/images/projets-img/profile.JPG);
 	background-position: -4660px;
 	margin: auto;
 	margin-top: 50px;
