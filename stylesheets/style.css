@@ -157,7 +157,7 @@ body > section > .holder > .title h2:after {
   margin-bottom: 50px;
   width: 3px;
   height: 5px;
-  background: red;
+  background: rgb(0, 255, 255);
   opacity: 0;
 }
 
@@ -970,7 +970,7 @@ body > section > .holder > .title h2:after {
 }
 
 #contactMe {
-  background-color: #f91791;
+  background-color: #1757f9;
   text-align: center;
   padding: 100px 0 120px 0;
   position: relative;
@@ -987,7 +987,7 @@ body > section > .holder > .title h2:after {
   content: "";
   top: -46px;
   left: 0;
-  background: #f91791;
+  background: #83cfee;
   position: absolute;
 }
 
@@ -1010,7 +1010,7 @@ body > section > .holder > .title h2:after {
 }
 
 #contactMe .button:hover {
-  color: #f91791;
+  color:#000000;
   background: #fff;
   -moz-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
@@ -1083,7 +1083,7 @@ body > section > .holder > .title h2:after {
 
 #contactMe .social a i:hover {
   background-color: #fff;
-  color: #f91791;
+  color:#000000;
 }
 
 #contactMe .copy {
