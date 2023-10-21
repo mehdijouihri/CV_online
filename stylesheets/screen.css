@@ -39,6 +39,7 @@
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+
 }
 
 
@@ -540,6 +541,7 @@ body > section > .holder > .title h2:after {
 #about {
 	position: relative;
 	padding: 0 0 250px 0;
+	background-color: #0a79f0;
 }
 
 #about .bg-image {
@@ -549,25 +551,17 @@ body > section > .holder > .title h2:after {
 	transition: all 2s;
 	width: 310px;
 	height: 500px;
-	border-radius: 50%;
+	border-radius: 20%;
 	/* background: url("http://i.imgur.com/ifckBKU.png"); */
-	background: url(/images/projets-img/profile.JPG);
-	background-position: -4660px;
+	background: url(/images/projets-img/2023\ 10\ JOUIHRI\ El\ Mehdi\ 07836_I.jpg);
+	background-position: -4585px;
 	margin: auto;
 	margin-top: 50px;
 	top: 0; left: 0; bottom: 0; right: 0;
 
-	-webkit-animation-name: gif;
-	-webkit-animation-delay: 1s;
-	-webkit-animation-timing-function: steps(17,start);
-	-webkit-animation-duration: 1.5s;
-	-webkit-animation-iteration-count: 1;
-	-webkit-animation-fill-mode: forwards;
 
-	-moz-animation: gif 1s steps(17,start) 1.5s 1 forwards;
-	-ms-animation: gif 1s steps(17,start) 1.5s 1 forwards;
-	-o-animation: gif 1s steps(17,start) 1.5s 1 forwards;
-	animation: gif 1s steps(17,start) 1.5s 1 forwards;
+
+	
 }
 
 #about .skewed-bg{

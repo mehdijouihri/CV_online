@@ -89,6 +89,7 @@ body > section > .holder > .title h2:after {
   text-align: center;
   font-family: "Abril Fatface", serif;
   color: #f96108;
+  background-color: #f2ff00;
   position: absolute;
   opacity: 0;
   vertical-align: baseline;
@@ -1107,7 +1108,7 @@ body > section > .holder > .title h2:after {
     height: 580px;
   }
   #about .bg-image {
-    background-position: -260% -158px;
+    background-position: -260%;
   }
 }
 
@@ -1207,6 +1208,7 @@ body > section > .holder > .title h2:after {
   }
   #about .tabs-menu li a {
     padding: 0;
+    
   }
   #about .holder {
     max-width: 90%;
@@ -1531,6 +1533,7 @@ body > section > .holder > .title h2:after {
     margin-top: 0;
     padding: 0;
     margin-left: 25px;
+    color: white;
   }
   .education .row .brief {
     /* padding-left: 100px; */
